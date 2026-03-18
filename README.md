@@ -7,8 +7,8 @@ Pipline:
 02. For fast pre-screening of 1.6M compounds from ChemDiv database ML models XGBoost and Random Forest were employed (collected ~50 compounds). 
 Decoys were selected as random ceneter clusters from the whole chembldb after splitting by Bemis-Murco scaffolding. 
 
-03. Tanimoto similarity search was presented with minimal possible threshold (0.45) based on all known chembl and patented compound vs 1.6M compounds from ChemDiv.
-Intermediate dataset include 115k compounds for virtual screening.
+03. Ultra-fast Tanimoto similarity search was presented based on all known chembl and patented compound vs 1.6M compounds from ChemDiv.
+Intermediate datasets include ~30-115k compounds for virtual screening (depending on threshold variable).
 
 04. Pre-docking preparation. Download, alignment of all proteins. detection of 2 main binding sites. Redocking of known ligands. Validation of docking. 
 
