@@ -12,4 +12,4 @@ Intermediate dataset include 115k compounds for virtual screening.
 
 04. Pre-docking preparation. Download, alignment of all proteins. detection of 2 main binding sites. Redocking of known ligands. Validation of docking. 
 
-05. Smina physic-based virtual pre-screening. 
+05. Smina physic-based virtual pre-screening (as fast cpu-based)
