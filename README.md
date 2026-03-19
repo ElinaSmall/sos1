@@ -16,8 +16,8 @@ Intermediate datasets include ~30-115k compounds for virtual screening (dependin
  
 > Next steps:
 
--- Detect docking energy cutoff (minimizedAffinity)
--- Ensemble docking for binding site 1 and bindig site2, rmsd mcss plots.
--- Selecting of 1-10 ligands for visual review based on critical bondings (prolif) and validate with Induced Fit Docking (Scroedinger protocol)/ Molecular Dynamics 
+- Detect docking energy cutoff (minimizedAffinity)
+- Ensemble docking for binding site 1 and bindig site2, rmsd mcss plots.
+- Selecting of 1-10 ligands for visual review based on critical bondings (prolif) and validate with Induced Fit Docking (Scroedinger protocol)/ Molecular Dynamics 
 
 
